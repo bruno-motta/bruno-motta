@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello, Word!
 
-<!--
-**bruno-motta/bruno-motta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java | Spring | SQL | Docker |  JavaScript | PHP | HTML | CSS
 
-Here are some ideas to get you started:
+Systems analysis and development student, passionate about technology and innovation, focusing exclusively on the back-end, especially Java, and a pinch of Front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-motta&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-motta&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+
+
+### Contact me:
+<a href="https://www.linkedin.com/in/brunomt07" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="35" alt="LinkedIn" />           
+</a>
+
+
+
