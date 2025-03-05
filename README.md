@@ -1,6 +1,6 @@
 ## Hello, Word!
 
-Java | Spring | SQL | Docker |  JavaScript | PHP | HTML | CSS
+JAVA | SPRING BOOT | MYSQL | POSTGRES | PYTHON | DJANGO | DOCKER.
 
 Systems analysis and development student, passionate about technology and innovation, focusing exclusively on the back-end, especially Java, and a pinch of Front-end.
 
