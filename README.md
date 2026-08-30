@@ -18,7 +18,7 @@ Automations</strong></p>
 
 ---
 <div align="center">
-  <p>Software Engineer focused on the <b>Java ecosystem</b>, with a pinch of automation and just enough front-end to survive (still working on it! 😅).<br>
+  <p>Software Engineer focused on the <b>Java ecosystem</b>, with a pinch of automation and just enough front-end to survive (still working on it!).<br>
     Graduated in <b>Systems Analysis & Development</b>, giving me a solid view of the entire software lifecycle and API design.<br>
     Currently diving deep into the world of <b>Artificial Intelligence</b>.
   </p>
