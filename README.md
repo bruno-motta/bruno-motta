@@ -1,9 +1,10 @@
-## <p align="center"> Hello, World! 👋 I'm Bruno Motta, be welcome to my Github! </p>
+## <p align="center"> Hello, World!  I'm Bruno Motta, be welcome to my Github! </p>
 
-<p align="center">
-  <b>Systems Analysis and Development student, passionate about technology and innovation.</b><br>
-  Focused on Back-end Development, building robust, scalable and clean APIs.
-</p>
+<div align="center">
+  <p><strong> Software Engineer • Back-end • 
+Automations</strong></p>
+  <p>Focused on creating robust, scalable, and clean RESTful APIs, with a touch of automation.</p>
+</div>
 
 
 <p align="center">
@@ -12,14 +13,16 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bruno-motta&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
+<div align="center">
+  <p>Software Engineer focused on the <b>Java ecosystem</b>, with a pinch of automation and just enough front-end to survive (still working on it! 😅).<br>
+    Graduated in <b>Systems Analysis & Development</b>, giving me a solid view of the entire software lifecycle and API design.<br>
+    Currently diving deep into the world of <b>Artificial Intelligence</b>.
+  </p>
+</div>
 
 ---
 
